@@ -11,7 +11,7 @@ This submodule is used to display a **What's New** page on VS Code extensions. I
 You just need to add a `submodule` reference to your Git repo
 
 ```
-    git submodule add https://github.com/alefragnani/vscode-whats-new.git
+    git submodule add https://github.com/Unity-Billal-mesloub/vscode-whats-new.git
 
 ```
 
@@ -147,7 +147,5 @@ I don't have to deal with HTML or CSS on my extensions anymore. I just have to _
 
 The idea came from the [GitLens extension](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) by @eamodio (big thanks to Eric Amodio :claps:). Based on pieces of its welcome page, I created this template based engine, to be able to use in any of my extensions, with minimum effort.
 
-# License
 
-[MIT](LICENSE.md) &copy; Alessandro Fragnani
 
